@@ -1,0 +1,5 @@
+com\mycompany\bibliotecaweb1\JakartaRestConfiguration.class
+conexion\Conexion.class
+modelo\Libro.class
+servlet\LibroServlet.class
+com\mycompany\bibliotecaweb1\resources\JakartaEE10Resource.class
